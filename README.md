@@ -7,3 +7,8 @@
 * git config
 * git add
 * git commit
+
+## Memento des commandes sur les branches
+
+* git branch
+* git checkout
